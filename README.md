@@ -1,4 +1,4 @@
-# DATA_CLEANINGSimple Data Cleaning Using Python
+#  Simple Data Cleaning Using Python
 ## Welcome to the Simple Data Cleaning project! This project demonstrates basic data cleaning techniques using Python and popular libraries such as Pandas, NumPy, Matplotlib, and Seaborn. Data cleaning is a crucial step in the data analysis process, ensuring that your dataset is accurate, consistent, and ready for analysis.Used Linear regresssion , Lasso Regression , Ridge Regression  and somebit decision tree
 
 ## Table of Contents
